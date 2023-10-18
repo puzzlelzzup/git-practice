@@ -1,0 +1,5 @@
+total 12K
+-rw-r--r-- 1 User 197121    0 Oct 18 01:11 file_list.txt
+-rw-r--r-- 1 User 197121 2.0K Sep 24 20:52 note_1.md
+-rw-r--r-- 1 User 197121 2.5K Oct  1 19:35 note_2.md
+-rw-r--r-- 1 User 197121 2.3K Oct 10 01:07 note_3.md
